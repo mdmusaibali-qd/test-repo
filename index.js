@@ -1,1 +1,1 @@
-console.log("It is initial file")
+console.log("It is initial file CHANGED")
